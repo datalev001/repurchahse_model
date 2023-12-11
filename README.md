@@ -9,3 +9,5 @@ In response, we propose a suitable answer for utilizing customer repurchase pred
 Furthermore, our method provides a series of probabilities for customer repurchases at various time intervals, enabling us to anticipate when customers are most likely to repurchase and determine the maximum probability of repurchase and the time it takes for a customer to reach that peak probability.
 
 In this analytical project, I used the 'LightGBM' machine learning algorithm within our methodology for customer repurchase predictive modeling.
+
+For detailed information, please refer: https://medium.com/@datalev/enhancing-customer-repurchase-predictions-a-data-driven-approach-with-promotions-45c389e00cc9
